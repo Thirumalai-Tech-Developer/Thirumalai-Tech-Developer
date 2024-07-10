@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI , Custom Rom and much more about technology
 - 🌱 I’m currently learning Android dev,Java , Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://t.me/GTKING07)
+- 📫 How to reach me [GTKING07](https://t.me/GTKING07)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: don't give up untill you get success
 
