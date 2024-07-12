@@ -1,4 +1,4 @@
-<p align="center"><strong>Hi, I am Nabil Shaikh, A beginner Programmer.<strong></p>
+<p align="center"><strong>Hi, I am Thirumalai , A beginner Programmer.<strong></p>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thirumalai-Tech-Developer&theme=java-dark&hide_border=true"/></a></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Thirumalai-Tech-Developer&style=flat-square" alt="Thirumalai-Tech-Developer"></p>
 <p align="center"><strong>🌐 Socials</strong></p>
