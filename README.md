@@ -8,17 +8,11 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thirumalai-Tech-Developer&theme=github_dark" alt=""></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thirumalai-Tech-Developer&theme=github_dark" align="right" alt=""></td>
-  </tr>
-</table>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thirumalai-Tech-Developer&theme=java-dark&hide_border=true"/></a></p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Thirumalai-Tech-Developer&style=flat-square" alt="Thirumalai-Tech-Developer"></p>
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,php,mysql,mongodb,firebase,linux,figma,docker,react,blender,unity&perline=8" alt="Skills"></td>
 </p>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thirumalai-Tech-Developer&theme=java-dark&hide_border=true"/></a></p>
-<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Thirumalai-Tech-Developer&style=flat-square" alt="Thirumalai-Tech-Developer"></p>
 <p align="center"><strong>🌐 Socials</strong></p>
 <p align="center"><a href="https://instagram.com/gt__king__007">
     <img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white" alt="Instagram profile" height="30"/>
