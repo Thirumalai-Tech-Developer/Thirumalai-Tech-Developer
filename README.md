@@ -1,6 +1,6 @@
 <p align="center"><strong>Hi, I am Thirumalai , A Pro Coder.<strong></p>
 <p align="center"><strong>Intrested in Android , Java , Python , Full Stack<strong></p>
-Connect with me
+**Connect with me**
 <p align="center">
 <a href="https://www.linkedin.com/in/thirumalai-g007"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Thirumalai-Tech-Developer/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
