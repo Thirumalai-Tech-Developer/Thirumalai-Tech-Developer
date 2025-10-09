@@ -10,7 +10,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thirumalai-Tech-Developer&theme=java-dark&hide_border=true"/></a></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Thirumalai-Tech-Developer&style=flat-square" alt="Thirumalai-Tech-Developer"></p>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=python,mysql,mongodb,linux,AI,machinelearning&perline=8" alt="Skills"></td>
+<img align="center" src="https://skillicons.dev/icons?i=python,mysql,mongodb,linux,aiscript,django,postman,vscode&perline=8" alt="Skills"></td>
 </p>
 <p align="center"><strong>🌐 Socials</strong></p>
 <p align="center"><a href="https://instagram.com/gt__king__0007">
