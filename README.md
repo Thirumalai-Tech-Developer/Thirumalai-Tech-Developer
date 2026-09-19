@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Agentic+AI+Developer;Python+%7C+Automation+%7C+Backend+Systems;Building+Autonomous+AI+Agents;Creating+Next-Gen+Developer+Tools;Open+Source+%7C+AI+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Agentic+AI+Developer;Python+%7C+Automation+%7C+Backend+Systems;Building+Autonomous+AI+Agents;Creating+Next-Gen+Developer+Tools;LLMs+%7C+AI+Agents+%7C+DevOps" alt="Typing SVG" />
 </p>
 
 <h1 align="center">⚡ Thirumalai G</h1>
@@ -37,38 +37,38 @@
 
 ## 🧠 About Me
 
-I'm **Thirumalai**, an AI-focused developer interested in building systems that can **think, reason, automate, interact with tools, and execute tasks**.
+I'm **Thirumalai**, an AI-focused developer interested in building systems that can **reason, use tools, automate workflows, interact with software, and execute real-world tasks**.
 
-My interests sit at the intersection of:
+My main focus is the intersection of:
 
 ```text
 Artificial Intelligence
         ↓
-LLMs & Generative AI
+Large Language Models
         ↓
 Agentic AI
         ↓
-Automation & Tool Calling
+Automation
         ↓
 Backend Systems
         ↓
-DevOps & Infrastructure
+Cloud & Infrastructure
 ```
 
 ### 🚀 What I Build
 
-* 🤖 Autonomous AI Agents
-* 🧠 LLM-powered applications
-* ⚡ Agentic AI workflows
-* 🔧 Developer automation tools
-* 🌐 AI-powered web applications
-* 🐍 Python backend systems
-* 🦀 High-performance tooling
-* 🐳 Dockerized services
-* ☁️ Cloud & server deployments
-* 🔌 API integrations
-* 📊 AI/ML pipelines
-* 🛠️ Custom developer utilities
+- 🤖 Autonomous AI Agents
+- 🧠 LLM-powered applications
+- ⚡ Agentic AI workflows
+- 🔧 Developer automation tools
+- 🌐 AI-powered web applications
+- 🐍 Python backend systems
+- 🦀 High-performance tooling
+- 🐳 Dockerized services
+- ☁️ Cloud deployments
+- 🔌 API integrations
+- 📊 AI/ML pipelines
+- 🛠️ Custom developer utilities
 
 I enjoy taking an idea from:
 
@@ -76,106 +76,105 @@ I enjoy taking an idea from:
 
 ---
 
-## ⚔️ Featured Project
+# ⚔️ Featured Project
 
-### 🤖 Kratos Agent
+## 🤖 Kratos Agent
 
 > **An autonomous AI coding agent designed to plan, modify, execute, and verify software projects.**
 
-Kratos is designed around an agentic workflow rather than simply generating code.
-
 ```text
-        ┌─────────────────┐
-        │     User Task   │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │     Planner     │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │   AI Reasoning  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │     Tools       │
-        │ Terminal / Web  │
-        │ Files / Git     │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Code Generation │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Verification    │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Final Result    │
-        └─────────────────┘
+                    USER TASK
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     PLANNER     │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  AI REASONING   │
+              └────────┬────────┘
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+       ┌───────────┐       ┌───────────┐
+       │ Terminal  │       │    Web    │
+       └─────┬─────┘       └─────┬─────┘
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+              ┌─────────────────┐
+              │  CODE / FILES   │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   VERIFICATION  │
+              └────────┬────────┘
+                       │
+                       ▼
+                 FINAL RESULT
 ```
 
-### 🔥 Kratos Capabilities
+### 🔥 Capabilities
 
-* 🧠 Autonomous task planning
-* 💻 Terminal execution
-* 📁 File inspection and modification
-* 🔍 Codebase analysis
-* 🌐 Web interaction
-* 🛠️ Tool calling
-* 🔄 Iterative verification
-* ⚡ Streaming responses
-* 🔌 Multiple LLM backend support
-* 🧩 Agentic workflows
+- 🧠 Autonomous task planning
+- 💻 Terminal execution
+- 📁 File inspection & modification
+- 🔍 Codebase analysis
+- 🌐 Web interaction
+- 🛠️ Tool calling
+- 🔄 Iterative verification
+- ⚡ Streaming responses
+- 🔌 Multiple LLM backends
+- 🧩 Agentic workflows
 
-🌐 **Live Demo:**
+🌐 **Live Demo**
+
 https://kratos-agent.thirutechdeveloper.workers.dev/
 
 ---
 
-## 🤖 AI & Machine Learning
+# 🤖 AI & Machine Learning
 
-I'm particularly interested in building practical AI systems rather than only experimenting with models.
+I'm interested in building **practical AI systems**, not just model demos.
 
 ### 🧠 Areas of Interest
 
-* Large Language Models
-* Small Language Models
-* Generative AI
-* Agentic AI
-* AI Agents
-* RAG Systems
-* Tool Calling
-* Function Calling
-* Prompt Engineering
-* Model Fine-Tuning
-* QLoRA / LoRA
-* Transformers
-* Computer Vision
-* Object Detection
-* Multimodal AI
-* Speech / TTS
-* Video Generation
-* AI Automation
+- Large Language Models
+- Small Language Models
+- Generative AI
+- Agentic AI
+- AI Agents
+- RAG Systems
+- Tool Calling
+- Function Calling
+- Prompt Engineering
+- Model Fine-Tuning
+- LoRA / QLoRA
+- Transformers
+- Computer Vision
+- Object Detection
+- Multimodal AI
+- Speech / TTS
+- Video Generation
+- AI Automation
 
 ---
 
-## 🧪 AI Projects & Experiments
+# 🧪 AI Experiments
 
-Some areas I've explored:
-
-| Area               | Technologies                    |
-| ------------------ | ------------------------------- |
-| 🤖 LLMs            | Llama, Qwen, Gemma, FLAN-T5     |
-| 🧠 Transformers    | PyTorch, Hugging Face           |
-| 🎯 Computer Vision | YOLO, OpenCV                    |
-| 🎙️ Speech         | TTS / Voice AI                  |
-| 🎬 Video AI        | ComfyUI, diffusion models       |
-| 🔎 RAG             | Embeddings, Vector Search       |
-| ⚙️ Agents          | Tool Calling, Autonomous Agents |
-| 📊 ML              | TensorFlow, Keras, Scikit-learn |
-| 🧪 Fine-Tuning     | LoRA, QLoRA, PEFT               |
+| Area | Technologies |
+|---|---|
+| 🤖 LLMs | Llama • Qwen • Gemma • FLAN-T5 |
+| 🧠 Transformers | PyTorch • Hugging Face |
+| 🎯 Computer Vision | YOLO • OpenCV |
+| 🎙️ Speech | TTS • Voice AI |
+| 🎬 Generative Video | ComfyUI • Diffusion |
+| 🔎 RAG | Embeddings • Vector Search |
+| ⚙️ Agents | Tool Calling • Autonomous Agents |
+| 📊 ML | TensorFlow • Keras • Scikit-learn |
+| 🧪 Fine-Tuning | LoRA • QLoRA • PEFT |
 
 ---
 
@@ -184,64 +183,89 @@ Some areas I've explored:
 ## 🐍 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,rust,java,cpp,bash,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,rust,java,cpp,bash,javascript,typescript&perline=10" />
 </p>
 
 ## 🤖 AI / ML
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
 </p>
 
-## 🌐 Backend & Web
+## 🌐 Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&perline=10" />
 </p>
 
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&perline=10" />
 </p>
 
 ## ☁️ Cloud / DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,cloudflare,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,cloudflare,nginx&perline=10" />
 </p>
 
 ## 🧰 Developer Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,cmake" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,cmake&perline=10" />
 </p>
 
 ---
 
-# ⚙️ What I'm Currently Exploring
+# ⚡ Currently Building
 
-```text
-🤖 Autonomous AI Agents
-🧠 Agentic LLM Architectures
-🔧 AI Coding Agents
-🌐 Browser Automation
-⚡ Tool Calling Systems
-🧩 Multi-Agent Systems
-🦀 Rust for AI Infrastructure
-🐳 Containerized AI Services
-☁️ Cloud AI Deployment
-🔌 LLM Gateway Systems
-```
+<table>
+<tr>
+<td width="50%">
+
+### ⚔️ Kratos Agent
+
+Autonomous AI coding agent capable of planning, coding, terminal execution, web interaction and verification.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Agentic AI Systems
+
+Exploring autonomous workflows, tool calling, multi-step reasoning, LLM orchestration and automation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 AI Gateway Systems
+
+Building infrastructure for connecting applications with different AI backends and model providers.
+
+</td>
+
+<td width="50%">
+
+### 🛠️ Developer Automation
+
+Creating tools that reduce repetitive development work and turn natural-language instructions into executable workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -251,23 +275,33 @@ I like building software around a simple idea:
 
 > **Don't just make the model generate an answer. Make the system capable of doing the work.**
 
-That means combining:
-
 ```text
-LLM
- +
-Memory
- +
-Tools
- +
-Planning
- +
-Execution
- +
-Verification
- =
-Agentic System
+             ┌──────────────┐
+             │     LLM      │
+             └──────┬───────┘
+                    │
+             ┌──────▼───────┐
+             │    Memory    │
+             └──────┬───────┘
+                    │
+             ┌──────▼───────┐
+             │    Tools     │
+             └──────┬───────┘
+                    │
+             ┌──────▼───────┐
+             │   Planning   │
+             └──────┬───────┘
+                    │
+             ┌──────▼───────┐
+             │  Execution   │
+             └──────┬───────┘
+                    │
+             ┌──────▼───────┐
+             │ Verification │
+             └──────────────┘
 ```
+
+**LLM + Memory + Tools + Planning + Execution + Verification = Agentic System**
 
 ---
 
@@ -287,7 +321,10 @@ Agentic System
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thirumalai-Tech-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Thirumalai-Tech-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -295,7 +332,10 @@ Agentic System
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-Tech-Developer&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-Tech-Developer&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -303,12 +343,25 @@ Agentic System
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thirumalai-Tech-Developer/Thirumalai-Tech-Developer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Thirumalai-Tech-Developer/Thirumalai-Tech-Developer/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Thirumalai-Tech-Developer/Thirumalai-Tech-Developer/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Thirumalai-Tech-Developer/Thirumalai-Tech-Developer/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
 
-# 📌 Featured Repositories
+# 📌 Featured Projects
 
 <p align="center">
 
@@ -320,7 +373,7 @@ Agentic System
 
 ---
 
-# 💡 Developer Mindset
+# 💻 Developer Mindset
 
 ```python
 while True:
@@ -328,6 +381,8 @@ while True:
     learn()
 
     build()
+
+    experiment()
 
     break_things()
 
@@ -337,37 +392,40 @@ while True:
 
     deploy()
 
-    repeat()
+    automate()
 ```
 
 ---
 
 # 🌱 Beyond Coding
 
-When I'm not building AI systems, I enjoy exploring:
+I'm also interested in:
 
-* 🧠 New AI architectures
-* ⚙️ Linux systems
-* 🔧 Developer tooling
-* 🐳 Infrastructure
-* ☁️ Cloud technologies
-* 📱 Android / AOSP
-* 🦀 Systems programming
-* 🤖 Automation
+- 🐧 Linux systems
+- 📱 Android / AOSP
+- 🦀 Systems programming
+- 🔧 Developer tooling
+- 🐳 Infrastructure
+- ☁️ Cloud technologies
+- 🤖 Automation
+- 🧠 AI research
+- ⚡ Performance optimization
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Focus
 
 ```text
 [✓] Build production AI systems
 [✓] Explore Agentic AI
 [✓] Build autonomous developer tools
 [✓] Deploy AI services
-[ ] Build larger open-source AI projects
-[ ] Contribute more to open source
-[ ] Explore advanced multi-agent architectures
-[ ] Build production-grade AI infrastructure
+[✓] Explore LLM infrastructure
+
+[→] Build larger open-source projects
+[→] Contribute more to open source
+[→] Explore multi-agent architectures
+[→] Build production-grade AI infrastructure
 ```
 
 ---
@@ -375,11 +433,9 @@ When I'm not building AI systems, I enjoy exploring:
 # 🌐 Portfolio
 
 <p align="center">
-
-<a href="https://thirumalaidev.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <a href="https://thirumalaidev.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
